@@ -1,0 +1,12 @@
+---
+:id: 254381693
+:submitters:
+- :name: Donald Yin
+  :email: donaldy@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-05-17 00:58:20.223205000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-05-16 17:58:20.223205000 Z
+:status: processed
+:score: 59.0
